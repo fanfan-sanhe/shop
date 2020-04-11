@@ -1,0 +1,6 @@
+public class userDao{
+
+public void insert(){
+system.out.print("lily做的用户注册造作");
+};
+}
